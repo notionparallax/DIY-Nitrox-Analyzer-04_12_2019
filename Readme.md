@@ -10,7 +10,7 @@ Parts list:
 
 |Part|img|Notes|US price and link|Aus price and link|
 |---|---|---|---|---|
-|Arduino Nano or clone|||||
+|Arduino Nano or clone|![](https://store-usa.arduino.cc/cdn/shop/files/A000005_03.front_643x483.jpg?v=1727102625)|||[$24.90](https://store-usa.arduino.cc/products/arduino-nano?srsltid=AfmBOoowbkVtJbZcSRW5Hx7PLGsHN3XlF3gDMwXm8iyINAOIu_oMFPcA)|
 |ADS1115 16 Bit ADC|![the Adafruit version of this part](part_images/1085-10.jpg)||||
 |0.96" I2C Monochrome 128 x 64 OLED Display |![the Adafruit version of this part](part_images/326-04.jpg)|(ADS 1306  controller clone)|||
 |<acronym title="Normally Open">NO</acronym> Push button switch|||||
